@@ -7,7 +7,7 @@ This repo is the Pytorch implementation of our submitted paper: Non-Stationary T
 mkdir datasets
 pip install -r requirements.txt
 ```
-All the 8 datasets are available at the [Google Driver](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) provided by iTransformer. Many thanks to their efforts and devotion!
+All the 12 datasets are available at the [Google Driver](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) provided by iTransformer. Many thanks to their efforts and devotion!
 
 #### Running
 
