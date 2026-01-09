@@ -1,0 +1,8 @@
+matplotlib
+pandas
+scikit-learn
+numpy<2.0
+torch==1.12.0
+seaborn
+sympy
+einops
