@@ -1,8 +1,8 @@
-matplotlib
+matplotlib==3.10.7
 pandas
-scikit-learn
-numpy<2.0
-torch==1.12.0
-seaborn
-sympy
-einops
+scikit-learn==1.7.2
+numpy==1.26.4
+torch==2.4.1
+seaborn==0.13.2
+sympy==1.14.0
+einops==0.8.1
