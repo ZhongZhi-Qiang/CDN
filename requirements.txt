@@ -1,8 +1,10 @@
-matplotlib==3.10.7
-pandas
+matplotlib==3.10.8
+pandas==2.3.3
 scikit-learn==1.7.2
 numpy==1.26.4
 torch==2.4.1
 seaborn==0.13.2
 sympy==1.14.0
 einops==0.8.1
+tqdm==4.66.2
+reformer-pytorch==1.4.4
